@@ -1,0 +1,131 @@
+body {
+    font-family: 'Vidaloka', serif;
+}
+
+header h1{
+color: rgb(255, 255, 255);
+}
+header img {
+    max-width: 50px;
+    height: 70px;
+}
+.navbar-custom {
+    background-color:#084980;
+    height: 20vh;
+    
+}
+
+.main-continer{
+width: 70%;
+}
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+.section {
+      width: 100%;
+      margin: 0 auto;
+      background-color: #F4F5F7;
+  }
+  .section img {
+      margin: 0 auto;
+      padding: 20px;
+  }
+ 
+ .card a {
+     background-color: #084980;
+     border-radius: 10px;  
+ }
+ .card a:hover {
+     color:#084980;
+     background-color:#F4F5F7 ;
+ }
+ .card{
+     border-width: 0cm;
+
+ }
+ .card-body {
+    margin-bottom: 30px;
+ }
+ 
+ .imges img {
+     width: 75%;   
+ }
+ .side-img img {
+    width: 100%;
+     padding: 10px;
+     align-content: center;
+ }
+
+ 
+ h2{
+    
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 10px;
+    
+ }
+ h6{
+    border-bottom: 3px solid #084980;
+     border: 4px solid  #084980 ;
+     width: 150px;
+     height: 25px;
+     font-size: 13px;
+     margin-bottom: 0px;
+     background-color:  #084980;
+     color: rgb(255, 255, 255);
+     text-align: center;
+     margin-top: 50px;
+ }
+
+
+ .card img{
+     max-width: 318px;
+     max-height: 200px;
+     
+ }
+ .footer{
+    background-color:#084980 ;
+    border-radius: 0%;
+     
+}
+
+article {
+   margin: 0 auto;
+   padding: 70px;
+   text-align: center;
+   border-bottom: 3px solid #F4F5F7;
+
+}
+
+article img { 
+   max-width: 550px;
+   margin-bottom: 20px;
+}
+
+article h2{
+    text-align: center;
+    color:#084980;
+    font-size: 3vw;
+    margin-bottom: 20px;
+}
+section {
+    background-color: #F4F5F7;
+    padding: 0px;
+}
+section img{
+    width: 70%;
+}
+section article {
+    border-bottom: 3px solid#d2cfcf;
+}
+
+footer li a {
+ color: azure;
+   
+}
+footer p, h1{
+    color: white;
+}
+
+ 
